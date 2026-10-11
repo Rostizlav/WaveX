@@ -1,0 +1,8 @@
+customtkinter
+pywebview
+requests[socks]
+pygame-ce
+mutagen
+Pillow
+yt-dlp
+pystray

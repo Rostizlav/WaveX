@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Результаты сборки
+release/
+
+# Локальные данные приложения
+.wavex_data/
+*.log
+*.exe
